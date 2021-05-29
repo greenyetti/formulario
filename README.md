@@ -1,2 +1,2 @@
-# formulario
-practica 2 UTT desarrollo web integral
+# Crear-un-Formulario-de-Registro-con-HTML-y-CSS-
+Creación de un simple y sencillo formulario de Registro con HTML y CSS
